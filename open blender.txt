@@ -1,0 +1,6 @@
+open blender
+select object
+run code
+
+
+https://youtu.be/lphiwdJY4fI?si=SeL15XbYujvPEjfE
